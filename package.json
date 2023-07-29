@@ -1,0 +1,17 @@
+{
+  "name": "prompt-engine-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ChatExample.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Casiano Rodriguez Leon <crguezl@ull.edu.es> (https://crguezl.github.io/)",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-engine": "^0.0.31",
+    "dotenv": "^16.3.1",
+    "openai": "*"
+  }
+}
