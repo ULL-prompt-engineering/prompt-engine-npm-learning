@@ -1,3 +1,7 @@
+## Architecture diagram representation
+
+![architecture diagram representation](https://user-images.githubusercontent.com/17247257/178334939-65e0e3ce-39b3-4abc-a889-7f2c0fb75f60.png)
+
 ## Install dependencies
 
 ```
